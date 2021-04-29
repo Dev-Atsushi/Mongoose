@@ -1,6 +1,6 @@
-# 🥥 | Isto é um exemplo de mongoose
-Isto é algo apenas para você se basear e fazer uma conexão mongoose.
+# 🥥 | This is an example of mongoose
+This is something just for you to base yourself on and make a Mongoose connection.
 
-- Conectar: connect.js
+- Connect: connect.js
 
-- Schema: schemas/teste.js
+- Schema: schemas/test.js
